@@ -4,7 +4,7 @@ import path from "path";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/LearningHub_Project/",
+  base: "./LearningHub_Project/",
   plugins: [react()],
   resolve: {
     alias: {
