@@ -117,10 +117,10 @@ If deploying to your own Supabase project:
 ## Author
 
 **Abdulrahman Alkhatib**  
-- GitHub: [@AbdulrahmanAKh](https://github.com/AbdulrahmanAKh)  
+- Portfolio: [https://abdulrahmanakh.github.io/](https://abdulrahmanakh.github.io/)
 - LinkedIn: [https://www.linkedin.com/in/abdulrahman-alkhatib/](https://www.linkedin.com/in/abdulrahman-alkhatib/)
+- GitHub: [@AbdulrahmanAKh](https://github.com/AbdulrahmanAKh)  
 - Email: [aboodkhatib90@gmail.com](mailto:aboodkhatib90@gmail.com)  
-- Portfolio: [https://abdulrahmanakh.github.io/Alkhatib-Portfolio/](https://abdulrahmanakh.github.io/Alkhatib-Portfolio/)
 
 ---
 
